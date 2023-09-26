@@ -1,0 +1,33 @@
+html{
+    background-color: grey;
+}
+body{
+    background-color: white;
+    
+    width: 640px;
+    height: 640px;
+    margin: 30px auto;
+
+}
+.row{
+    width: 100%;
+    height: 80px;
+    float: left;
+}
+
+.box{
+    
+    width: 80px;
+    height: 80px;
+    float: left;
+    font-size: 65px;
+    text-align: center;
+    color: rgb(238, 86, 30);
+}
+.box:hover{
+    background-color: rgb(68, 197, 122);
+}
+.black{
+    background-color: black;
+
+}
